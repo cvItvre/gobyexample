@@ -36,7 +36,7 @@ func main() {
 		fmt.Println("its after noon")
 	}
 
-	// a tpe switch compares types instead of values
+	// a type switch compares types instead of values
 	// you can use to discover the type of an interface value
 	whatAmI := func(i any) {
 		switch t := i.(type) {

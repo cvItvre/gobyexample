@@ -20,7 +20,7 @@ func main() {
 	var e int
 	fmt.Println(e)
 
-	// := syntax is a shrthand for declaration and initialization
+	// := syntax is a shorthand for declaration and initialization
 	f := "apple"
 	fmt.Println(f)
 
